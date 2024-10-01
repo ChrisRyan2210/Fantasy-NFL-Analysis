@@ -12,7 +12,7 @@
 
 ## Project Overview
 
-This project was undertaken soon after I graduated and right before I started my first data analyst job. The project focuses on the analysis of an online survey of tech job salaries across Ireland/Northern Ireland. The objective was to get a deeper understanding of potential salary progression as a data analyst, while also seeing if there were any standout career paths that had higher financial payoffs.
+This project was undertaken soon after I graduated and right before I started my first data analyst job. The project analyses the impact that playing in a specific conference/team in college has on rookie wide receivers in the NFL and how they score in Fantasy Football.
 
 This project was completed as a passion project in the hopes to improve my understanding of fantasy NFL scoring as I play in a number of big money fantasy leagues. Moreover, there were two main questions I wanted to answer. 
 
